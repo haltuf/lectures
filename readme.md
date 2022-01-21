@@ -8,7 +8,7 @@ Kód v tomto repozitáři je výsledkem mého výukového videa: [Nette - přihl
 1. Naklonujte si nebo si stáhněte tento repozitář 
 2. Spusťte na svém počítači Docker Desktop. Pokud ho nemáte, nainstalujte si ho.
 3. Spusťte v naklonovaném repozitáři soubor `.docker/up.bat`
-4. Napište v příkazové řádce `docker exec example composer install`
+4. Napište v příkazové řádce `docker exec lectures composer install`
 5. Otevřete svůj oblíbený prohlížeč.
 6. Napište do adresního řádku `localhost`. Měla by se objevit typická úvodní stránka z nette/web-project včetně debuggovací lišty.
 7. Napište do adresního řádku `localhost:8080`. Měl by se objevit PHPMyAdmin s jednou tabulkou jménem `user` s jedním záznamem.
